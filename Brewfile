@@ -1,0 +1,8 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew "act"
+brew "awscli"
+brew "cmake"
+brew "git"
+brew "terraform-docs"
+brew "yarn"
