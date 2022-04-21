@@ -7,4 +7,4 @@ if [ -e $HOME/.bash_aliases ]; then
 fi
 
 # Fig post block. Keep at the bottom of this file.
-. "$HOME/.fig/shell/zprofile.post.zsh"
+eval "$(fig init zsh post)"
